@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌙 Low-Light Image Enhancement
+# 🌙 Perceptual-LowLight-Enhancer
 
 **Deep learning–based enhancement of low-light images using a U-Net encoder–decoder with perceptual loss**
 
@@ -63,8 +63,8 @@ Low-Light-Image-Enhancement/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/chiragprajapati1405/Low-Light-Image-Enhancement.git
-cd Low-Light-Image-Enhancement
+git clone https://github.com/chiragprajapati1405/Perceptual-LowLight-Enhancer.git
+cd Perceptual-LowLight-Enhancer
 ```
 
 ### 2. Create a virtual environment
