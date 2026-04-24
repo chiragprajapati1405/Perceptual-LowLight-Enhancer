@@ -3,19 +3,9 @@
 # ============================================
 
 # ----- Dataset (large) -----
-data_root/
-data/train/
-data/eval/
-data/test/
+# (Data and model tracked as requested by user)
 
 # ----- Model weights / checkpoints -----
-*.keras
-*.h5
-*.hdf5
-*.pb
-*.onnx
-models/*.keras
-training_runs/
 
 # ----- Python -----
 __pycache__/
