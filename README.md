@@ -35,12 +35,12 @@ Low-Light-Image-Enhancement/
 │   ├── 01_baseline_training.ipynb      # Original baseline (MSE loss)
 │   └── 02_perceptual_training.ipynb    # Improved version (perceptual loss)
 │
-├── data/                               # Dataset (not tracked — see data/README.md)
+├── data/                               # Dataset images
 │   ├── train/
 │   ├── eval/
 │   └── test/
 │
-├── models/                             # Saved model weights (not tracked — see models/README.md)
+├── models/                             # Saved model weights
 │
 ├── results/
 │   ├── inference/                      # Model output samples

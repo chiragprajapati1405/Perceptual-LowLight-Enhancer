@@ -1,6 +1,6 @@
 # 📂 Dataset
 
-This directory is **not tracked by Git** due to its size (~230 MB).
+This directory contains the image dataset.
 
 ## Structure
 

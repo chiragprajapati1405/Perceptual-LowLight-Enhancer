@@ -1,6 +1,6 @@
 # 🧠 Trained Models
 
-Model weight files (`.keras`) are **not tracked by Git** due to their size.
+This directory contains the trained model weight files (`.keras`).
 
 ## Available Models
 
