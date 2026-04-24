@@ -1,0 +1,6 @@
+model_file,num_eval,mse,psnr_db,ssim
+/home/hp/Downloads/All_Old_Folders/CV/Projects/Enhanced_ELIEI/training_runs/best_model_perceptual.keras,87,0.008586108684539795,23.2421875,0.8520578145980835
+/home/hp/Downloads/All_Old_Folders/CV/Projects/Enhanced_ELIEI/training_runs/exp_lambda1e4_20251107_191941.keras,87,0.010046453215181828,22.979841232299805,0.8573194742202759
+/home/hp/Downloads/All_Old_Folders/CV/Projects/Enhanced_ELIEI/training_runs/exp_perc_norm_20251107_194814.keras,87,0.011742686852812767,22.469030380249023,0.8568158149719238
+/home/hp/Downloads/All_Old_Folders/CV/Projects/Enhanced_ELIEI/training_runs/exp_perc_norm_l5e4_20251107_195113.keras,87,0.012086918577551842,22.49471092224121,0.8528109192848206
+/home/hp/Downloads/All_Old_Folders/CV/Projects/Enhanced_ELIEI/training_runs/original_baseline_model.keras,87,0.012086918577551842,22.49471092224121,0.8528109192848206

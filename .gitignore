@@ -1,0 +1,56 @@
+# ============================================
+# Low-Light Image Enhancement — .gitignore
+# ============================================
+
+# ----- Dataset (large) -----
+data_root/
+data/train/
+data/eval/
+data/test/
+
+# ----- Model weights / checkpoints -----
+*.keras
+*.h5
+*.hdf5
+*.pb
+*.onnx
+models/*.keras
+training_runs/
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ----- Virtual environments -----
+.venv/
+venv/
+env/
+ENV/
+
+# ----- Jupyter Notebook -----
+.ipynb_checkpoints/
+
+# ----- IDE / Editor -----
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ----- Logs & temp -----
+*.log
+*.tmp
+tensorboard_logs/
+
+# ----- Restructure script (temp) -----
+restructure.sh
+
+# ----- Old files (cleaned up after restructure) -----
+best_model.keras
